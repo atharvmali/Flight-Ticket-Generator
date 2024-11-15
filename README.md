@@ -52,17 +52,11 @@ mali-aerospace/
 3. **Download the PDF**: After submission, a confirmation message is displayed with a button to download the PDF receipt. Clicking the button will generate the PDF containing all the entered and random details, and the user can download the ticket.
 
 ## Screenshots
-![Booking Form](./screenshot1.png)  
-*Example of the flight booking form.*
+<img src="https://github.com/atharvmali/Flight-Ticket-Generator/blob/main/img/img1.png" alt="img1">
+Example of the flight booking form.
 
-![PDF Receipt](./screenshot2.png)  
-*Sample downloadable PDF receipt.*
+<img src="https://github.com/atharvmali/Flight-Ticket-Generator/blob/main/img/img2.png" alt="img2">
+Sample downloadable PDF receipt.
 
 ## Contributing
 Feel free to fork this project and submit issues or pull requests if you would like to contribute to the development of this project.
-
----
-
-### Notes
-- Replace the `screenshot1.png` and `screenshot2.png` with actual screenshots of the form and PDF receipt if you want to include visuals.
-- If you intend to add more details or instructions later (e.g., adding the `jsPDF` library locally), you can update the README accordingly.
